@@ -1,4 +1,5 @@
 # Supermarket Sales Dashboard
+![Dashboard Screenshot](dashboard.png)
 
 ##  Project Overview
 This project analyzes supermarket sales data using Microsoft Excel. The dashboard was designed to provide interactive insights into revenue, product performance, customer behavior, and payment methods.
