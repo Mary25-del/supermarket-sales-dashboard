@@ -1,27 +1,27 @@
 # Supermarket Sales Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes supermarket sales data using Microsoft Excel. The dashboard was designed to provide interactive insights into revenue, product performance, customer behavior, and payment methods.
 
-## 🛠️ Tools Used
+##  Tools Used
 - Microsoft Excel
 - PivotTables
 - PivotCharts
 - Slicers
 - KPI Cards
 
-## 📊 Key Insights
+##  Key Insights
 - January recorded the highest revenue.
 - February recorded the lowest revenue.
 - Food and Beverages was the best-performing product line.
 - Cash was the most preferred payment method.
 - Naypyitaw generated the highest revenue among the three cities analyzed.
 
-## 📂 Files
+##  Files
 - Supermarket Dashboard.xlsx
 - Supermarket Sales Dataset
 - Dashboard Screenshot
 
-## 👤 Author
-Mary Onyeka
+##  Author
+Mary Onwordi
 Aspiring Data Analyst
